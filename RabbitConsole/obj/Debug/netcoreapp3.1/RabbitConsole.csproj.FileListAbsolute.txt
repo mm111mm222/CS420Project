@@ -1,0 +1,16 @@
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitConsole.exe
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.AssemblyInfoInputs.cache
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.AssemblyInfo.cs
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitConsole.deps.json
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitConsole.runtimeconfig.json
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitConsole.runtimeconfig.dev.json
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitConsole.dll
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitConsole.pdb
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.csproj.CoreCompileInputs.cache
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.csproj.CopyComplete
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.dll
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.pdb
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.genruntimeconfig.cache
+C:\Users\cxb4tls\source\repos\Week9\RabbitConsole\obj\Debug\netcoreapp3.1\RabbitConsole.csprojAssemblyReference.cache

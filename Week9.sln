@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week9", "Week9\Week9.csproj", "{8EC19E1A-A589-496D-9EF3-A4F253B6DC11}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8D49BA74-985E-4F10-B432-93BEE01DE234}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitConsole", "RabbitConsole\RabbitConsole.csproj", "{9A775344-B0D4-4225-B5DB-25B66ACB363B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC35B75E-CEBA-4DA5-B7ED-8629F8D49BA9}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC19E1A-A589-496D-9EF3-A4F253B6DC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC19E1A-A589-496D-9EF3-A4F253B6DC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC19E1A-A589-496D-9EF3-A4F253B6DC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC19E1A-A589-496D-9EF3-A4F253B6DC11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D49BA74-985E-4F10-B432-93BEE01DE234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D49BA74-985E-4F10-B432-93BEE01DE234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D49BA74-985E-4F10-B432-93BEE01DE234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D49BA74-985E-4F10-B432-93BEE01DE234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A775344-B0D4-4225-B5DB-25B66ACB363B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A775344-B0D4-4225-B5DB-25B66ACB363B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A775344-B0D4-4225-B5DB-25B66ACB363B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A775344-B0D4-4225-B5DB-25B66ACB363B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39B9ABF-B6C2-4CA9-A9E8-E58031858D4D}
+	EndGlobalSection
+EndGlobal

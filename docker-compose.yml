@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  week9:
+    image: ${DOCKER_REGISTRY-}week9
+    build:
+      context: .
+      dockerfile: Week9/Dockerfile
+    ports:
+      - 32775:443
+  
+  rabbitconsole:
+    image: ${DOCKER_REGISTRY-}rabbitconsole
+    build:
+      context: .
+      dockerfile: RabbitConsole/Dockerfile
+
+#  rabbitmq:
+#    image: rabbitmq:3-management
+#    container_name: rabbitmq_class
+#    volumes:
+#      - ./rabbitmq/etc/:/etc/rabbitmq/
+#      - ./rabbitmq/data/:/var/lib/rabbitmq/
+#      - ./rabbitmq/logs/:/var/log/rabbitmq/
+#    ports:
+#      - 5672:5672
+#      - 15672:15672
+

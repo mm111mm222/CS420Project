@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmzSLm056vvurkC5Q+6VowwaReN93WKIwQa+mNq7nk8qQHYTawnYJVFeRfTCMvxqd5PHi2vKgvpIccX2qhdlsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cxb4tls\\source\\repos\\Week9\\RabbitConsole\\RabbitConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cxb4tls\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\cxb4tls\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\cxb4tls\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\cxb4tls\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

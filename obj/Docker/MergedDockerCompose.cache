@@ -1,0 +1,28 @@
+networks:
+  default:
+    driver: bridge
+    ipam:
+      driver: default
+services:
+  rabbitconsole:
+    build:
+      context: C:\Users\cxb4tls\source\repos\Week9
+      dockerfile: RabbitConsole/Dockerfile
+    image: rabbitconsole
+  week9:
+    build:
+      context: C:\Users\cxb4tls\source\repos\Week9
+      dockerfile: Week9/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: week9
+    ports:
+    - target: 80
+    - published: 32775
+      target: 443
+    - target: 443
+    volumes:
+    - C:\Users\cxb4tls\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\cxb4tls\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
