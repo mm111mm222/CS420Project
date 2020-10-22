@@ -59,3 +59,5 @@ Requirements
 Misc
 -------------------------------
 docker run -v rabbitmq-data:/var/lib/rabbitmq -d --restart always --hostname my-rabbit --name rabbit_dev -p 15672:15672 -p 5672:5672 rabbitmq:3-management
+
+Access Rabbit at http://localhost:15672
